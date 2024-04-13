@@ -1,4 +1,4 @@
-### UnifiedMentorPvt.Ltd_Internship
+## Unified Mentor Pvt. Ltd Internship Tasks
 
 1. Amazon Sales Analysis: Leveraged Python for analysis of Amazon sales data to create a Tableau dashboard, identifying trends, key metrics, profit factors, and regional-channel revenue disparities. 
 
